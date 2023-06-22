@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: react-app
-        image: iamsamitdev/reactapp-ci:781aee536a3c2e43e0178d708751ae240c7f267d
+        image: iamsamitdev/reactapp-ci:8c05680980dfde3037ee6b16b877c4bf6fede32a
         imagePullPolicy: Always
         ports:
         - containerPort: 80
